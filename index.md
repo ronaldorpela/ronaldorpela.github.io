@@ -7,3 +7,7 @@ Seiya is a the protagonist of the anime and manga series Saint Seiya. He belongs
 * Dedicated
 * Frinedly
 * Persistent: doesn't give up easily
+
+As Grace Hopper said:
+> I will protect you...
+> ... forever!
